@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Valera
-
-Python developer
+<h1 align="center">Hi there, I'm Valera</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4273F7&center=true&vCenter=true&random=false&width=435&lines=Python+developer+from+Minsk" alt="Typing SVG" /></a>
 
 <!--
 **Valpydeveloper/Valpydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
